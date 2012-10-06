@@ -12,6 +12,7 @@ As an alternative: if desired, you can simply run the application through the co
 
 ##How to use
 Currently, there is no user interface. However, most of the settings are easily manipulated in code. Modify ftlsge.d to produce the desired modifications to your save game.
+
 1. Locate your FasterThanLight `continue.sav`. It's usually located in `My Documents\My Games\FasterThanLight`
 2. Place your `continue.sav` into the directory you will run ftlsge in.
 3. Run ftlsge
